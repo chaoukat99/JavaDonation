@@ -1,10 +1,9 @@
-# Mini Service de Gestion de Campagnes de Dons
+# Mini Service Demo de Gestion de Campagnes de Dons
 
 ## Fonctionnalités :
-- CRUD de campagnes et dons
+- Créaqtion de campagnes et dons
 - Récupération des campagnes actives
 - Validation via `@Valid`
-- Tests unitaires & d’intégration
 - Swagger UI
 
 ## Endpoints :
